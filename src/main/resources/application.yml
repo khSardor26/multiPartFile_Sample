@@ -12,8 +12,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres
-    username: furb-x
-    password: 155795
+    username: USERNAME
+    password: PASSWORD
     driver-class-name: org.postgresql.Driver
 
     # Optional but useful for stable connections
