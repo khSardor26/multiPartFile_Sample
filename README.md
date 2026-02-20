@@ -20,4 +20,25 @@ Perfect as a reference repo for interviews, backend practice, or plugging into b
 
 ----------
 
+## 🧰 Tech Stack
 
+[](https://github.com/khSardor26/LeetCode_Notes/blob/master/hashMap_iteration.md#-tech-stack)
+
+-   ☕ Java [17/21]
+-   🌱 Spring Boot [version]
+-   🔧 Maven / Gradle
+-   📄 Lombok (optional)
+-   🧪 JUnit (optional)
+
+----------
+
+## 🗂️ Project Structure
+
+[](https://github.com/khSardor26/LeetCode_Notes/blob/master/hashMap_iteration.md#%EF%B8%8F-project-structure)
+
+src/main/java/...
+├── controller/     # REST endpoints
+├── service/        # business logic
+├── storage/        # file saving logic (local/cloud)
+├── dto/            # request/response models
+└── exception/      # custom errors + handler
